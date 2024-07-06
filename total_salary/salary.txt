@@ -1,0 +1,5 @@
+System Architect,8000
+DevOps Engineer,5000
+Senior Developer,4500
+Middle Developer,2000
+Junior Developer,1000
